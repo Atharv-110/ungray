@@ -1480,7 +1480,7 @@ body .swiper-pagination-bullets.swiper-pagination-horizontal,
 }
 
 .app-footer .logo-brand {
-  max-width: 90px;
+  width: 120px;
 }
 
 .app-footer .info span {
